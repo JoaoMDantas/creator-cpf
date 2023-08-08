@@ -1,1 +1,1 @@
-# ok  
+Fiz algo simples, para criar minha primeira pagina utilizando json e webpack. Assim fiz um  gerador de cpf, sempre que atualiza a página é gerado um novo.(depois posso colocar um botão ou algo mais intuitivo.)
